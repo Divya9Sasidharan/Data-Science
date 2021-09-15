@@ -1,7 +1,7 @@
 # Data-Science
 Masters in Digital Engineering 
 
-# Interview Preparations
+# courses
 
   ## Deep Learning
     Introductions + MLPs, Gradient Descent & Backpropagation
@@ -13,16 +13,7 @@ Masters in Digital Engineering
     Regularization & Optimization
     Introspection
   
-  ## Visual Analytics
-    Introduction
-    Clustering
-    Subspace Clustering
-    Cluster Analysis: Validation, Visualization, Outlier Detection
-    Visual analysis of Biclusters
-    Scatterplot-Based Visual Representations
-    Linear Dimension Reduction
-    Non-Linear Dimension Reduction
-    Decision Trees
+  
     
 ## Advanced Topics in Machine Learning
     Fundamentals of Data Science
